@@ -1,0 +1,14 @@
+body {  
+	background-color:Aquamarine; 
+	text-align:left;
+	font-size: x-large;
+	
+	}
+
+table, th, tr, td {
+	border:1px Solid Blue;
+	width:200px;
+	border-spacing:5px;
+	padding:5px;
+		
+	}
